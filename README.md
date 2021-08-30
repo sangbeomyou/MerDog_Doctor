@@ -10,21 +10,21 @@
  5. Glide 라이브러리를 사용하여 이미지,동영상 업로드 <br>
 
  <br><br><h2>기획</h2><br><br>
- <img width="80%" src="https://user-images.githubusercontent.com/48462737/131368035-d741531a-5b82-4a30-b505-c5086091a8af.PNG"/>
- <img width="80%" src="https://user-images.githubusercontent.com/48462737/131368038-47ab24a1-47c4-4c15-a2e6-fd78567245dd.PNG"/>
+ <img width="100%" src="https://user-images.githubusercontent.com/48462737/131368035-d741531a-5b82-4a30-b505-c5086091a8af.PNG"/>
+ <img width="100%" src="https://user-images.githubusercontent.com/48462737/131368038-47ab24a1-47c4-4c15-a2e6-fd78567245dd.PNG"/>
  
  <br><br><h2>메인화면</h2><br><br>
- <img width="80%" src="https://user-images.githubusercontent.com/48462737/131369267-f6585618-8c2a-4e5c-9d2f-accef95b4d0d.PNG"/>
+ <img width="100%" src="https://user-images.githubusercontent.com/48462737/131369267-f6585618-8c2a-4e5c-9d2f-accef95b4d0d.PNG"/>
  
  <br><br><h2>상담수락</h2><br><br>
- <img width="80%" src="https://user-images.githubusercontent.com/48462737/131368022-d209ae49-ac4e-4389-83f4-9b7ca87062ce.PNG"/>
+ <img width="100%" src="https://user-images.githubusercontent.com/48462737/131368022-d209ae49-ac4e-4389-83f4-9b7ca87062ce.PNG"/>
  
   <br><br><h2>체팅</h2><br><br>
- <img width="80%" src="https://user-images.githubusercontent.com/48462737/131368030-d0fcc38c-bab5-4cd1-8d73-f427f69dc13e.PNG"/>
+ <img width="100%" src="https://user-images.githubusercontent.com/48462737/131368030-d0fcc38c-bab5-4cd1-8d73-f427f69dc13e.PNG"/>
  
   <br><br><h2>상담연장</h2><br><br>
- <img width="80%" src="https://user-images.githubusercontent.com/48462737/131368027-a0ecd4b0-b41d-42c5-af4b-1f04d4ce9d1a.PNG"/>
+ <img width="100%" src="https://user-images.githubusercontent.com/48462737/131368027-a0ecd4b0-b41d-42c5-af4b-1f04d4ce9d1a.PNG"/>
  
   <br><br><h2>전체흐름</h2><br><br>
- <img width="80%" src="https://user-images.githubusercontent.com/48462737/131368008-2a00e3bf-2c94-413e-b999-299aa2f25f91.PNG"/>
+ <img width="100%" src="https://user-images.githubusercontent.com/48462737/131368008-2a00e3bf-2c94-413e-b999-299aa2f25f91.PNG"/>
  
