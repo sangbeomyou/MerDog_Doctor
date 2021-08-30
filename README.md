@@ -14,7 +14,7 @@
  <img width="80%" src="https://user-images.githubusercontent.com/48462737/131368038-47ab24a1-47c4-4c15-a2e6-fd78567245dd.PNG"/>
  
  <br><br><h2>메인화면</h2><br><br>
- <img width="80%" src="https://user-images.githubusercontent.com/48462737/131368013-5ccc45c7-d986-4a05-a72c-16893c50a82b.PNG"/>
+ <img width="80%" src="https://user-images.githubusercontent.com/48462737/131369267-f6585618-8c2a-4e5c-9d2f-accef95b4d0d.PNG"/>
  
  <br><br><h2>상담수락</h2><br><br>
  <img width="80%" src="https://user-images.githubusercontent.com/48462737/131368022-d209ae49-ac4e-4389-83f4-9b7ca87062ce.PNG"/>
