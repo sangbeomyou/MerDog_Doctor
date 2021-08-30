@@ -6,7 +6,7 @@
  1. Volley 라이브러리를 활용한 http 통신 <br> 
  2. ScaleDrone을 이용한 채팅서비스 기능 구현 <br> 
  3. Kakao maps API, gps 활용하여 사용자 현재 위치 활용 <br>
- 4. 사용자와 가까운 순으로 채팅 매칭현 <br> 
+ 4. 사용자와 가까운 순으로 채팅 매칭 <br> 
  5. Glide 라이브러리를 사용하여 이미지,동영상 업로드 <br>
 
  <br><br><h2>기획</h2><br><br>
